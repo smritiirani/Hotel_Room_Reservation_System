@@ -50,3 +50,8 @@ The hotel has **97 rooms** distributed across **10 floors**:
    ```bash
    git clone https://github.com/yourusername/hotel-reservation.git
    cd hotel-reservation
+🙌 Author
+
+Smriti Rani
+📧 ranismriti435@gmail.com
+💼 Aspiring Software Engineer | AI/ML Enthusiast
